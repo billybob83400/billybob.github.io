@@ -4,6 +4,6 @@
         <title>TEST</title>
     </head>
     <body>
-        <p>je suis vaccine</p>
+        <p>This is a test</p>
     </body>
 </html>
